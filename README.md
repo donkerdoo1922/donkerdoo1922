@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donkerdoo1922
-- 👀 I’m interested in learning about data coding and extraction
+- 👀 I’m interested in learning IT through a program instead of stumbling through making mistakes
 - 🌱 I’m currently learning very slowly being self taught
-- 💞️ I’m looking to collaborate on halted data i intervened on
+- 💞️ I’m looking to collaborate on halted data, and have numerous ideas for various projects and directions
 - 📫 How to reach me? The usual
 
 <!---
